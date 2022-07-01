@@ -34,6 +34,8 @@ Hi! You're welcome here.
 <img alt="macOS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40">
 <img alt="Jetbrains" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" width="40">
 <img alt="Chrome" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="40">
+<img alt="Android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40">
+<img alt="Raspberry Pi" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40">
 </span>
 
 #### Icons from:
