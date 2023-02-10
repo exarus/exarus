@@ -31,7 +31,6 @@ Hi! I'm Ruslan, Full Stack JS Developer from Ukraine 🇺🇦.
 <img alt="Yarn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="40">
 <img alt="ESLint" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="40"></span>
 <img alt="Raspberry Pi" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40">
-<img alt="Markdown" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="40">
 
 ## My favorite projects
 
